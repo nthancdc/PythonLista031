@@ -12,4 +12,4 @@ soma = num1 + num2 + num3 + num4
 produto = num1 * num2 * num3 * num4
 
 print("O resultado da soma destes números é:",soma)
-print("O resultado das multiplicações destes números é:",produto)2
+print("O resultado das multiplicações destes números é:",produto)

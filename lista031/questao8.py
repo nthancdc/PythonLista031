@@ -4,6 +4,6 @@
 distancia = float(input("Qual é a distância da viagem em Km?"))
 consumo = float(input("Quantos Km o seu automóvel anda com um litro?"))
 
-litros = consumo * distancia
+litros = distancia / consumo
 
 print("Então a quantidade de litros gasta na sua viagem foi de:",litros,"litros")
